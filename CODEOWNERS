@@ -1,0 +1,8 @@
+
+# Core functionality - changes here should be rare!
+/src/app.py                   @Brage1025
+/src/backend/database.py      @Brage1025
+/src/backend/routers/auth.py  @Brage1025
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Brage1025
